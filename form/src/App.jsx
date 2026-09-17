@@ -1,12 +1,12 @@
 import './App.css'
-import NewUser from './components/NewUser'
+import CrudUsuarios from './components/CrudUsuarios'
 
 function App() {
 
 
   return (
     <>
-      <NewUser />
+      <CrudUsuarios />
     </>
   )
 }
